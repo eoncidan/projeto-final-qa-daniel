@@ -8,7 +8,7 @@ Durante este semestre, mergulhei no universo do Quality Assurance (QA) e essa jo
 
 ## 2. O que é Quality Assurance (QA)? 🛠️
 
-Quality Assurance (QA) é um conjunto de atividades que visa garantir que um produto de software atenda a determinados padrões de qualidade. Isso envolve a identificação de falhas e a validação de que o software funciona corretamente antes de ser lançado. A importância do QA no desenvolvimento de software é imensa, pois ajuda a evitar problemas que podem afetar a experiência do usuário, reduzindo custos e tempo de retrabalho. Em resumo, QA é como um seguro de qualidade que protege tanto os desenvolvedores quanto os usuários finais.  
+Quality Assurance (QA) é um conjunto de atividades que visa garantir que um produto de software atenda a determinados padrões de qualidade. Isso envolve a identificação de falhas e a validação de que o software funciona corretamente antes de ser lançado. A importância do QA no desenvolvimento de software é imensa, pois ajuda a evitar problemas que podem afetar a experiência do usuário, reduzindo custos e tempo de retrabalho. Imagine que você está construindo uma casa. O QA seria como uma pessoa que acompanha toda a obra, verificando se cada parte está sendo feita do jeito certo, se os materiais são bons e se tudo está de acordo com o que foi combinado com o dono da casa. No software, o QA faz a mesma coisa: ele revisa o código, testa as funcionalidades, verifica se tudo funciona direito e se o programa atende às necessidades dos usuários.
 
 ## 3. Conceitos Aprendidos Durante o Semestre 📚
 
